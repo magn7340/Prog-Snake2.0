@@ -4,10 +4,10 @@ function Button() {
     button3 = createButton('Fast')
     button4 = createButton('Good Luck')
 
-    button.position(700, 100)
-    button2.position(700, 125)
-    button3.position(700, 150)
-    button4.position(700, 175)
+    button.position(700, 250)
+    button2.position(700, 300)
+    button3.position(700, 350)
+    button4.position(700, 400)
 
     button.mousePressed(slow);
     button2.mousePressed(normal);
