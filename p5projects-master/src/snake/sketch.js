@@ -68,13 +68,13 @@ function draw() {
 
     apple.show();
 
-    fill(43, 51, 25);
+    fill(0, 0, 0);
     text("Score: " + int(snake.score), 10, height - 25);
     text("Highscore: " + int(highest), 10, height - 10);
     snake.show();
     noFill();
     strokeWeight(4);
-    stroke(43, 51, 25);
+    stroke(0, 0, 0);
     rect(1, 1, width - 2, height - 2);
 
 }

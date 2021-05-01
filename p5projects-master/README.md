@@ -1,3 +1,4 @@
-# Some games written in p5.js
+Dette er vores svar på et oprindeligt 'snake game' lavet om, så det nu har det vi synes et 'snake game' skal have.
 
-Go to https://p5js.org/reference/ for downloading this library.
+Link til det endelige spil:
+[Ball Worm](src/snake/)
